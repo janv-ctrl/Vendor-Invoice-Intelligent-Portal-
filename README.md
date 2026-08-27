@@ -105,4 +105,4 @@ streamlit run app.py
 - Regression: MAE, RMSE, R²
 - Classification: Accuracy, Precision, Recall, F1 (shown live in the dashboard tab)
 
-##Live demo : https://vendor-invoice-intelligent.streamlit.app/
+## Live Demo : https://vendor-invoice-intelligent.streamlit.app/
