@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+.env
+.DS_Store
+
+# Keep generated CSV features and trained model artifacts in Git.
+# Do not publish the source database if it is added locally.
+data/inventory.db
