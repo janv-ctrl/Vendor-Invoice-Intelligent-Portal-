@@ -1,4 +1,4 @@
-# 📦 Vendor Invoice Intelligence Portal v2
+# 📦 Vendor Invoice Intelligence Portal 
 
 **Freight Cost Prediction & Approval-Routing Prediction — built on a real vendor invoice dataset**
 
